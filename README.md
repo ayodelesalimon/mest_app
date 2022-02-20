@@ -8,13 +8,13 @@ This project is a test for creating Mest Home Screen
 
 ## How to clone
 
-#git clone repo
+git clone repo
 
-#run flutter clean
+run flutter clean
 
-#run flutter pub get
+run flutter pub get
 
-#run flutter build 
+run flutter build 
 
 
 ## ScreenShots
